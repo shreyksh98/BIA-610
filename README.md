@@ -9,8 +9,6 @@ Grade Recieved: A
 
 
 
-In-CL: Every week's in-class assignment
-
 HW: Homework
 
 PRJ: Project files with presentations and code
